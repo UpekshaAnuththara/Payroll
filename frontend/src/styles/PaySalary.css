@@ -1,0 +1,15 @@
+.img-border{
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  height: 150px;
+  
+}
+.box-margin{
+  margin: 10px;
+}
+
+.text-dec{
+  text-align: center;
+}
